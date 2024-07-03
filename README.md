@@ -48,8 +48,8 @@ This is a comprehensive inventory management system with a React-based frontend 
 ### Backend Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/inventory-management-system.git
-   cd inventory-management-system/Backend
+   git clone https://github.com/Pavitra112/Inventory.git
+   cd Inventory/Backend
    ```
 
 2. Install backend dependencies:
