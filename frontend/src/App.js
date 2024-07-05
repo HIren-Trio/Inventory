@@ -115,7 +115,7 @@ const checkTokenExpiration = () => {
   }
 };
 
-setInterval(checkTokenExpiration, 60000);
+setInterval(checkTokenExpiration, 6000);
 
 return (
   <ThemeProvider theme={theme}>
